@@ -94,6 +94,7 @@
  '(multi-term-program "/bin/zsh" t)
  '(multi-term-scroll-show-maximum-output t)
  '(mumamo-chunk-coloring 10)
+ '(ns-command-modifier (quote meta))
  '(nxml-child-indent 2)
  '(nxml-outline-child-indent 2)
  '(org-return-follows-link t)

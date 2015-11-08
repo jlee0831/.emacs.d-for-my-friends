@@ -89,6 +89,7 @@
  '(magit-completing-read-function (quote ido-completing-read))
  '(magit-default-tracking-name-function (quote magit-tracking-name-unfucked-with))
  '(magit-save-some-buffers nil)
+ '(magit-set-upstream-on-push t)
  '(midnight-delay "1:00am")
  '(midnight-mode t nil (midnight))
  '(multi-term-program "/bin/zsh" t)

@@ -80,6 +80,7 @@
  '(js2-basic-offset 2)
  '(js2-bounce-indent-p t)
  '(js2-mirror-mode nil)
+ '(jsx-indent-level 2)
  '(kill-ring-max 1000)
  '(kill-whole-line t)
  '(linum-delay t)

@@ -115,6 +115,7 @@
  '(show-smartparens-global-mode t)
  '(simp-completing-read-command (quote ido-completing-read))
  '(size-indication-mode t)
+ '(smart-indent-unindent-key "<C-S-tab>")
  '(smartparens-global-mode t)
  '(sp-autoescape-string-quote nil)
  '(sp-ignore-modes-list (quote (calc-mode dired-mode gnus-article-mode gnus-group-mode gnus-summary-mode ibuffer-mode magit-branch-manager-mode magit-commit-mode magit-diff-mode magit-key-mode magit-log-mode magit-reflog-mode magit-stash-mode magit-status-mode magit-wazzup-mode minibuffer-inactive-mode monky-mode sr-mode term-mode)))

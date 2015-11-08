@@ -104,6 +104,7 @@
  '(proced-auto-update-flag t)
  '(proced-auto-update-interval 1)
  '(proced-format (quote long))
+ '(require-final-newline t)
  '(ruby-align-chained-calls t)
  '(save-interprogram-paste-before-kill t)
  '(save-place t nil (saveplace))

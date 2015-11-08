@@ -108,6 +108,7 @@
  '(require-final-newline t)
  '(ruby-align-chained-calls t)
  '(ruby-deep-indent-paren nil)
+ '(ruby-insert-encoding-magic-comment nil)
  '(save-interprogram-paste-before-kill t)
  '(save-place t nil (saveplace))
  '(sgml-basic-offset 2 t)

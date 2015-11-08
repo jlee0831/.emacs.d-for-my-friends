@@ -44,7 +44,7 @@
  '(global-auto-revert-mode t)
  '(global-auto-revert-non-file-buffers t)
  '(global-highline-mode t)
- '(global-linum-mode nil)
+ '(global-linum-mode t)
  '(global-visible-mark-mode t)
  '(global-whitespace-mode nil)
  '(grep-command "grep -nH -e ")

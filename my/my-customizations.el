@@ -127,7 +127,7 @@
  '(ruby-insert-encoding-magic-comment nil)
  '(save-interprogram-paste-before-kill t)
  '(save-place t nil (saveplace))
- '(sgml-basic-offset 2 t)
+ '(sgml-basic-offset 2)
  '(show-paren-mode nil)
  '(show-smartparens-global-mode t)
  '(simp-completing-read-command (quote ido-completing-read))

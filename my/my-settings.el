@@ -68,4 +68,8 @@
 
 ;; END ESLINT STUFF
 
+;; START ALCHEMIST STUFF
+(setq alchemist-mix-command "/usr/local/bin/mix")
+;; END ALCHEMIST STUFF
+
 (provide 'my-settings)

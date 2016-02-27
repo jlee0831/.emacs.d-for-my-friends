@@ -100,6 +100,8 @@
  '(kill-whole-line t)
  '(linum-delay t)
  '(linum-eager t)
+ '(mac-command-modifier nil)
+ '(mac-option-modifier (quote meta))
  '(mac-pass-command-to-system nil)
  '(magit-commit-all-when-nothing-staged (quote ask-stage))
  '(magit-completing-read-function (quote ido-completing-read))

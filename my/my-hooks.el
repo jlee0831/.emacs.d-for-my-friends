@@ -102,4 +102,8 @@
    (local-unset-key (kbd "M-j"))
    (eslint-set-closest)))
 
+(add-hook
+ 'elixir-mode-hook
+ 'alchemist-mode)
+
 (provide 'my-hooks)

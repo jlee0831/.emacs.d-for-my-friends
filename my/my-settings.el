@@ -28,6 +28,16 @@
 
 (load custom-file)
 
+;;
+;; js2-mode
+(setq-default
+      js2-basic-offset 2
+      js2-strict-trailing-comma-warning nil
+      web-mode-markup-indent-offset 2
+      web-mode-css-indent-offset 2
+      web-mode-code-indent-offset 2
+      web-mode-attr-indent-offset 2)
+
 ;; BEGIN ESLINT STUFF
 
 ;; use web-mode for .jsx files
